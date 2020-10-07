@@ -1,5 +1,4 @@
 Hello world is a file
 This is my change in second.txt file while working in dev branch
-A quick brown fox jumps over the lazy dog
 New changes online
 
